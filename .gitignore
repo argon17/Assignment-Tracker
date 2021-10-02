@@ -1,0 +1,5 @@
+Pipfile.lock
+*.session
+__pycache__/
+*.pyc
+.idea/
